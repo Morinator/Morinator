@@ -31,3 +31,7 @@ Reach me under **mgross321@gmail.com** 📫
 ## Stats
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true" /></p>  <!--- GitHub statistics -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Morinator" /> </p>  <!--- Number of profile views -->
+
+<hr style="border:2px solid gray"> </hr>
+
+<!-- THE END, TADAAA -->
