@@ -4,7 +4,7 @@ rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](http
 I like exploring different python packages, currently *Tensorflow*, *Flask* and *sklearn*.  
 Reach me under **mgross321@gmail.com** 📫
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid black"> </hr>
 
 ## Skills and Experience
 <p align="center">
