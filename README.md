@@ -1,16 +1,33 @@
-### Hi there 👋
+## About 👋
+I'm B.Sc. student in **Data Science** @ [University of Marburg](https://www.uni-marburg.de/de):mortar_board:. My primary side-project is  
+rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) as a student assistant.  
+I like exploring different python packages, currently *Tensorflow*, *Flask* and *sklearn*.  
+Reach me under **mgross321@gmail.com** 📫
 
-<!--
-**Morinator/Morinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr style="border:2px solid gray"> </hr>
 
-Here are some ideas to get you started:
+## Skills and Experience
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.onlinewebfonts.com/svg/img_546218.png" alt="git" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png" alt="git" width="96" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" width="40" height="40"/> 
+  <img src="https://jgrapht.org/img/logo.png" width="70" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  
+<hr style="border:2px solid gray"> </hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true" /></p>  <!--- GitHub statistics -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Morinator" /> </p>  <!--- Number of profile views -->
