@@ -34,4 +34,10 @@ Reach me under **mgross321@gmail.com** 📫
 
 <hr style="border:2px solid gray"> </hr>
 
+
+<p align="center">
+<a href="https://twitter.com/Mor1nator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="florianwoelki" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/9727674/morinator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="flowy" height="30" width="30" /></a>
+</p>
+
 <!-- THE END, TADAAA -->
