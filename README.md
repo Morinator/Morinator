@@ -1,7 +1,7 @@
 ## About 👋
-I'm B.Sc. student in **Data Science** @ [University of Marburg](https://www.uni-marburg.de/de):mortar_board:. My primary side-project is  
-rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) as a student assistant.  
+I'm B.Sc. student in **Data Science** @ [University of Marburg](https://www.uni-marburg.de/de):mortar_board:. 
 I like exploring different python packages, currently *Tensorflow*, *Flask* and *sklearn*.  
+My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) as a student assistant.  
 Reach me under **mgross321@gmail.com** 📫
 
 <hr style="border:2px solid black"> </hr>
