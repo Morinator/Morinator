@@ -9,7 +9,7 @@ Reach me under **mgross321@gmail.com** 📫
 ## Skills and Experience
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
