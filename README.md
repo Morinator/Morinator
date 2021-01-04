@@ -14,7 +14,6 @@ Reach me under **mgross321@gmail.com** 📫
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.onlinewebfonts.com/svg/img_546218.png" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png" alt="git" width="96" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" width="40" height="40"/> 
