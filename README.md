@@ -1,8 +1,8 @@
 ## About me
-I'm a B.Sc. student in **Data Science** @ [University of Marburg](https://www.uni-marburg.de/de):mortar_board:
-Right now I'm looking into *Tensorflow* and *Android*:robot:
-My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) as a [student assistant](https://www.uni-marburg.de/en/fb12/research-groups/algorith)
-Reach me under **mgross321@gmail.com** 📫
+I'm a B.Sc. student in **Data Science** @ [University of Marburg](https://www.uni-marburg.de/de):mortar_board:  
+Right now I'm looking into *Tensorflow* and *Android*:robot:  
+My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:clock8: [graph problem](https://www.uni-marburg.de/de/fb12/arbeitsgruppen/algorith/paper/alenex20-fixcon.pdf) as a [student assistant](https://www.uni-marburg.de/en/fb12/research-groups/algorith)  
+Reach me under **mgross321@gmail.com** 📫  
 
 <hr style="border:2px solid black"> </hr>
 
