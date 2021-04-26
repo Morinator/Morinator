@@ -11,7 +11,7 @@ Reach me under **mgross321@gmail.com** 📫
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> 
   <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="java" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png" alt="git" width="96" height="40"/> 
