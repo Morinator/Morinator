@@ -25,7 +25,10 @@ My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:c
 <hr style="border:2px solid gray"> </hr>
 
 ## GitHub Statistics
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true" /></p>  <!--- GitHub statistics -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true&line_height=27&hide_border=true&hide_title=true&theme=onedark" />
+</p>  <!--- GitHub statistics -->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Morinator" /> </p>  <!--- Number of profile views -->
 
 <hr style="border:2px solid gray"> </hr>
