@@ -5,6 +5,8 @@ My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:c
 
 <hr style="border:2px solid black"> </hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morinator)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Experience with
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
@@ -24,10 +26,13 @@ My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:c
   
 <hr style="border:2px solid gray"> </hr>
 
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true&line_height=27&hide_border=true&hide_title=true&theme=onedark" />
-</p>  <!--- GitHub statistics -->
+<p align="center"> <!--- Stats about GitHub usage -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Morinator&show_icons=true&line_height=27&hide_title=true&theme=synthwave" />
+</p>  
+
+<p align="center"> <!--- Share of programming-languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morinator&show_icons=true&theme=synthwave" />
+</p> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Morinator" /> </p>  <!--- Number of profile views -->
 
