@@ -5,8 +5,6 @@ My primary side-project is rewriting a (hopefully *fast*) solver for a NP-hard:c
 
 <hr style="border:2px solid black"> </hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morinator)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Experience with
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
